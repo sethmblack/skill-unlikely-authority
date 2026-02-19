@@ -3,8 +3,9 @@ name: unlikely-authority
 description: Lead and influence when you lack formal credentials, traditional qualifications, or positional authority. Authority flows from mission, not permission.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.5249
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
 - transformation
